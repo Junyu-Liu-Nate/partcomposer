@@ -1,5 +1,6 @@
 # PartComposer: Learning and Composing Part-Level Concepts from Single-Image Examples
 Published as a SIGGRAPH Asia 2025 Conference Paper [[website](https://junyu-liu-nate.github.io/partcomposer.github.io/)] [[paper](https://arxiv.org/pdf/2506.03004)]
+
 **Authors**: Junyu Liu, R. Kenny Jones, Daniel Ritchie
 
 ![teaser image](readme_imgs/teaser.jpg)
